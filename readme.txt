@@ -1,3 +1,6 @@
+This version is deprecated!
+Use this Ruby version instead: https://github.com/TimboFimbo/Flipper_AnimNamer
+
 An Animation Namer for the Flipper Zero.
 
 Once run, pass in the path of a folder containing .png files.
